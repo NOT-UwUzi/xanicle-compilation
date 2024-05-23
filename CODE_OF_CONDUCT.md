@@ -127,3 +127,5 @@ https://www.contributor-covenant.org/faq. Translations are available at
 https://www.contributor-covenant.org/translations.
 
 ## Sanity check
+
+evan liao hates gingers
